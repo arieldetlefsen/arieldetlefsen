@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm currently working on my Master's Degree in Quantitative Informatics. I intend to graduate this summer and hope to explore options for additional experience. I have been teaching mathematics for the several years and grew interested in statistics and data analysis. I am interested in investigating options to transition from teaching or using my experience teaching to merge these two subject areas. 
 
 <!--
 **arieldetlefsen/arieldetlefsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
